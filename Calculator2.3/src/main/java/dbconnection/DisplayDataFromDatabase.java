@@ -67,7 +67,8 @@ public class DisplayDataFromDatabase extends JFrame {
 	private JTable table_11;
 	private JTextField Percent_textField;
 	private static final DecimalFormat decfor = new DecimalFormat("0.00");
-	
+
+    //helloo 
 
 	/**
 	 * Launch the application.
@@ -780,6 +781,8 @@ public class DisplayDataFromDatabase extends JFrame {
 	    header3.setFont(font3);
 	    header3.setBackground(Color.BLUE);
 	    header3.setForeground(Color.WHITE);
+	    
+	
 	    
 	    
 	    JTableHeader header4 = table_4.getTableHeader();
