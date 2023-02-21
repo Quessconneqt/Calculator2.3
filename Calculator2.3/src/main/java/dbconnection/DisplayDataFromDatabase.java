@@ -68,8 +68,8 @@ public class DisplayDataFromDatabase extends JFrame {
 	private JTextField Percent_textField;
 	private static final DecimalFormat decfor = new DecimalFormat("0.00");
 
-    //helloo 
-
+	//easy one 
+  
 	/**
 	 * Launch the application.
 	 */
