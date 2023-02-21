@@ -69,7 +69,8 @@ public class DisplayDataFromDatabase extends JFrame {
 	private static final DecimalFormat decfor = new DecimalFormat("0.00");
 
 	//easy one 
-	// 2nd one ----12345
+	// 2nd one ----12345678
+	// 3rd one
   
 	/**
 	 * Launch the application.
